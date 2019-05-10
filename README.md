@@ -1,5 +1,5 @@
-# InfoBot-GAN
-Code for paper InfoBot-GAN: Information Bottlenecked AdversarialSynthesis for Multimodal Image Registration (coming soon)
+# IB-cGAN
+Code for paper IB-cGAN
 
 The code and model trained by pytorch will be released after acceptance.
 
