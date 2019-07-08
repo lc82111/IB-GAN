@@ -15,7 +15,7 @@ We show some interesting videos below. The z is a latent representation vector w
 
 
 2. We manupulate the 3-th element of z from -1 to 1, and set all other elements to 0.
-
+![](z3.gif)
 
 3. We manupulate the 4-th element of z from -1 to 1, and set all other elements to 0.
 
