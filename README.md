@@ -11,21 +11,30 @@ We show some interesting videos below. The z is a latent representation vector w
 ![](WGAN_SN_encodedZ.gif)
 ![](WGAN_SN_1.gif)
 
-2. We manupulate all the elements of z from -1 to 1 simultaneously for a specific patient.
+2. We manupulate z for for a specific patient.
+
+![](LR.png)
+
+a) Varing all the elements of z from -1 to 1 simultaneously for a specific patient.
 
 
-3. We manupulate the 3-th element of z from -1 to 1, and set all other elements to 0.
+
+b) Varing the 3-th element of z from -1 to 1, and set all other elements to 0.
 
 ![](z3.gif)
 
-4. We manupulate the 4-th element of z from -1 to 1, and set all other elements to 0.
+c) Varing the 4-th element of z from -1 to 1, and set all other elements to 0.
 
 ![](z4.gif)
 
-5. We manupulate the 5-th elements of z from -1 to 1, , and set all other elements to 0.
+d) Varing the 5-th elements of z from -1 to 1, , and set all other elements to 0.
 
 ![](z5.gif)
 
-6. We manupulate the 8-th elements of z from -1 to 1, , and set all other elements to 0.
+e) Varing the 7-th elements of z from -1 to 1, , and set all other elements to 0.
+
+![](z7.gif)
+
+f) Varing the 8-th elements of z from -1 to 1, , and set all other elements to 0.
 
 ![](z8.gif)
