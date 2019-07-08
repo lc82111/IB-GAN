@@ -14,13 +14,18 @@ We show some interesting videos below. The z is a latent representation vector w
 2. We manupulate all the elements of z from -1 to 1 simultaneously for a specific patient.
 
 
-2. We manupulate the 3-th element of z from -1 to 1, and set all other elements to 0.
+3. We manupulate the 3-th element of z from -1 to 1, and set all other elements to 0.
+
 ![](z3.gif)
 
-3. We manupulate the 4-th element of z from -1 to 1, and set all other elements to 0.
+4. We manupulate the 4-th element of z from -1 to 1, and set all other elements to 0.
 
+![](z4.gif)
 
-4. We manupulate the 5-th elements of z from -1 to 1, , and set all other elements to 0.
+5. We manupulate the 5-th elements of z from -1 to 1, , and set all other elements to 0.
 
+![](z5.gif)
 
-5. We manupulate the 8-th elements of z from -1 to 1, , and set all other elements to 0.
+6. We manupulate the 8-th elements of z from -1 to 1, , and set all other elements to 0.
+
+![](z8.gif)
