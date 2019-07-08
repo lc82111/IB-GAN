@@ -17,7 +17,7 @@ We show some interesting videos below. The z is a latent representation vector w
 
 a) Varing all the elements of z from -1 to 1 simultaneously for a specific patient.
 
-
+![](all_z.gif)
 
 b) Varing the 3-th element of z from -1 to 1, and set all other elements to 0.
 
