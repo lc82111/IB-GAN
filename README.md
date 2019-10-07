@@ -1,8 +1,9 @@
 # IB-cGAN
-Code for paper IB-cGAN
+Code for paper IB-cGAN for Multi-modality Medical Image Registration (will be presented in the coming issue of Medical Physics)
+
+The paper's basic idea is simple: IB-cGAN converts the image pair of different modalities into the same modality to reduce the multi-modality registration difficulty .
 
 The code and model trained by pytorch will be released after acceptance.
-
 
 We show some interesting videos below. The z is a latent representation vector with 8 elements.
 
