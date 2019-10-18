@@ -3,19 +3,7 @@
 Code for paper:
 
 A modality conversion approach to MV-DRs and KV-DRRs registration using information bottlenecked conditional generative adversarial network.
-
-Liu C1, Lu Z2, Ma L1, Wang L1, Jin X3, Si W4,5.
-Author information
-1
-Ningbo Institute of Technology, Zhejiang University, Ningbo, 315100, China.
-2
-School of Aeronautics and Astronautics, Zhejiang University, Hangzhou, 310058, China.
-3
-Radiation and Medical Oncology Department, 1st Affiliated Hospital of Wenzhou Medical University, Wenzhou, 325003, China.
-4
-Internet of Things College, Shanghai Business School, Shanghai, 201400, China.
-5
-Huashan Hospital, Fudan University, Shanghai, 200031, China.
+CongLiu et.al.
 
 Abstract
 
